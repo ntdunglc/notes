@@ -1,0 +1,77 @@
+baseURL : "http://ntdunglc.com/"
+languageCode : "en-us"
+title : "ntd's notes"
+theme : "ghostwriter"
+
+languageCode: en-us
+copyright: ntdunglc
+googleAnalytics: XXX
+disqusShortname: XXX
+pygmentsUseClasses: true
+pygmentsCodefences: true
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    tabWidth: 2
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+
+author:
+  name: Dung Tri Nguyen
+  profile: "https://github.com/+XXX"
+
+taxonomies:
+  tag: tags
+
+params:
+  mainSections:
+    - posts
+  intro: false
+  headline: NTD's notes
+  description: '"Who you are is defined by what you’re willing to struggle for" - Mark Manson'
+  github: "https://github.com/ntdunglc"
+  # gitlab: "https://gitlab.com/XXX"
+  # linkedin: "https://linkedin.com/in/XXX/"
+  # twitter: "https://twitter.com/XXX"
+  # stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
+  # facebook: "https://www.facebook.com/username"
+  email: ntdunglc@gmail.com
+  opengraph: false
+  shareTwitter: false
+  shareFacebook: false
+  shareGooglePlus: false
+  shareLinkedIn: false
+  dateFormat: "Mon, Jan 2, 2006"
+  exponeaJsUrl: ""
+  exponeaTarget: ""
+  exponeaToken: ""
+  exponeaTrackVisits: false
+  readingTime: true
+  readingTimeText: "Estimated reading time:"
+  fathomUrl: ""
+  fathomSiteId: ""
+
+permalinks:
+  post: "/:year/:month/:day/:filename/"
+
+menu:
+  main:
+    - name: Blog
+      url: /
+      weight: 1
+    - name: Contact
+      url: /page/contact/
+      weight: 2
