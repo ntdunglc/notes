@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ntd&#39;s notes</title>
+    <link>http://ntdunglc.com/posts/</link>
+    <description>Recent content in Posts on ntd&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ntdunglc</copyright>
+    <lastBuildDate>Tue, 19 May 2020 23:11:02 -0400</lastBuildDate>
+    
+	<atom:link href="http://ntdunglc.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python CLI Application</title>
+      <link>http://ntdunglc.com/posts/python-cli-application/</link>
+      <pubDate>Tue, 19 May 2020 23:11:02 -0400</pubDate>
+      
+      <guid>http://ntdunglc.com/posts/python-cli-application/</guid>
+      <description>This note summarize recent experience building a few command line (CLI) applications in Python.
+Here are a few assumptions before I describe the approach
+ It&amp;rsquo;s not a CLI that process GBs of data, or need to have lowest overhead. If that&amp;rsquo;s the case, Rust/Go might be better candidate than Python. It&amp;rsquo;s not an interactive CLI like mysql. However it can still support simple interactive workflow. It&amp;rsquo;s not a CLI that do one thing and do it well.</description>
+    </item>
+    
+  </channel>
+</rss>

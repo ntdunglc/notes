@@ -1,0 +1,11 @@
+
+.post-header p {
+    text-transform: none;
+}
+.site-title {
+    text-transform: none;
+}
+
+.post-title, .page-title {
+    font-size: 40px;
+}

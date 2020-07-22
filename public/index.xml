@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ntd&#39;s notes</title>
+    <link>http://ntdunglc.com/</link>
+    <description>Recent content on ntd&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ntdunglc</copyright>
+    <lastBuildDate>Tue, 19 May 2020 23:11:02 -0400</lastBuildDate>
+    
+	<atom:link href="http://ntdunglc.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://ntdunglc.com/page/contact/</link>
+      <pubDate>Tue, 19 May 2020 23:11:02 -0400</pubDate>
+      
+      <guid>http://ntdunglc.com/page/contact/</guid>
+      <description>Hi I&amp;rsquo;m Dung Tri Nguyen a girl dad, a non-stop reader and learner As a developer, I&amp;rsquo;m still trying to figure out the domain of software that I would stay.
+I started a web developer, spent few years as a data engineer, and recently I&amp;rsquo;m interested in building high performance systems.
+More importantly, I&amp;rsquo;m the dad of my two girls, and love to spend my best energy with them.
+Leave me a message</description>
+    </item>
+    
+    <item>
+      <title>Python CLI Application</title>
+      <link>http://ntdunglc.com/posts/python-cli-application/</link>
+      <pubDate>Tue, 19 May 2020 23:11:02 -0400</pubDate>
+      
+      <guid>http://ntdunglc.com/posts/python-cli-application/</guid>
+      <description>This note summarize recent experience building a few command line (CLI) applications in Python.
+Here are a few assumptions before I describe the approach
+ It&amp;rsquo;s not a CLI that process GBs of data, or need to have lowest overhead. If that&amp;rsquo;s the case, Rust/Go might be better candidate than Python. It&amp;rsquo;s not an interactive CLI like mysql. However it can still support simple interactive workflow. It&amp;rsquo;s not a CLI that do one thing and do it well.</description>
+    </item>
+    
+  </channel>
+</rss>
