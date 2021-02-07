@@ -9,3 +9,6 @@ This is an idea for a website that you can record your answers to some questions
 - tag questions: diary style, marriage, etc
 - ML and AI to answer your questions using your own old answers.
 - answers are private by default, but optional public and ppl can view random Q/A
+
+References:
+- <https://www.futureme.org/>
